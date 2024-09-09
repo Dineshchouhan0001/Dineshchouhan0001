@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Chouhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-videos%2Fanimation-technology&psig=AOvVaw1ZCjOb06L5cBcmLLmOEryp&ust=1725946052662000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID8_Z6QtYgDFQAAAAAdAAAAABAE" width="400px" align="right">
+
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **HTML ,CSS ,Javascript**
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshchouhan0001&show_icons=true&locale=en&layout=compact" alt="dineshchouhan0001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshchouhan0001&show_icons=true&locale=en" alt="dineshchouhan0001" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dineshchouhan0001&show_icons=true&locale=en" alt="dineshchouhan0001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshchouhan0001&" alt="dineshchouhan0001" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshchouhan0001&" alt="dineshchouhan0001" /></p>
