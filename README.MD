@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Chouhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FMr3W&psig=AOvVaw1PFKVw15ooSpAWsCBP62Mc&ust=1725944681465000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiY5ZKLtYgDFQAAAAAdAAAAABAE" width="400px" align="right">
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **HTML ,CSS ,Javascript**
