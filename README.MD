@@ -33,6 +33,5 @@
           <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind" />
           <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,postgres,postman" /><br>
       </div>
-      
       <br/>
       <hr/>
