@@ -44,8 +44,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=dineshchouhan0001&" alt="streak stats" />
-  <img width=350 src="https://github-readme-stats.vercel.app/api?username=dineshchouhan0001&show_icons=true&locale=en" alt="dineshchouhan0001" />
+<img width=350 height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=dineshchouhan0001&" alt="streak stats" />
+  <img width=350 height=200 src="https://github-readme-stats.vercel.app/api?username=dineshchouhan0001&show_icons=true&locale=en" alt="dineshchouhan0001" />
   <br/>
   <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshchouhan0001&show_icons=true&locale=en&layout=compact" alt="dineshchouhan0001" />
 </div>
